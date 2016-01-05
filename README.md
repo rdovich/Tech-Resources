@@ -1,4 +1,4 @@
-# Tech-Resources
+# Technical Resources
 ## Git
 * [12 Days of Git](http://vanwilson.info/2015/12/the-12-days-of-git-learn-git-over-the-holidays/)
 
