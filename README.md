@@ -9,6 +9,7 @@
 * [2015 WWDC Videos](https://developer.apple.com/videos/wwdc2015/)
 * [Perfect](http://perfect.org/about.html)
 * [Perfect Examples](https://github.com/PerfectlySoft/Perfect/tree/master/Examples#examples)
+* [How to Use Perfect](http://www.sitepoint.com/server-side-swift-with-perfect/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning&utm_medium=email&utm_campaign=Versioning%20386&utm_content=Versioning%20386+Version+A+CID_b9edc5576bc5c913bf93fe09271eac99&utm_source=CampaignMonitor%20SitePoint&utm_term=Perfect%20a%20Swift%20back-end%20project)
 * [Ray Wenderlich - Intermediate Swift](http://www.raywenderlich.com/video-tutorials#IntSwift)
 * [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 * [Making Apple Pie](http://makeapppie.com)
