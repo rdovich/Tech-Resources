@@ -17,6 +17,7 @@
 * [Udemy - iOS 9 and Swift: From Beginner to Paid Professional](https://www.udemy.com/ios9-swift/#/lecture/3375158)
 * [Udemy - The Complete iOS 9 Developer Course - Build 18 Apps](https://www.udemy.com/the-complete-ios-9-developer-course/#/lecture/3193280)
 * [Notes from a Swift Developer](http://swiftrien.blogspot.com)
+* [Swift Toolbox](http://www.swifttoolbox.io)
 
 ## GITTER
 * [RTFM](https://gitter.zendesk.com/hc/en-us/categories/200024041-RTFM)
