@@ -24,6 +24,11 @@
 
 ## Design
 * [Wireframe.cc](https://wireframe.cc)
+* [InVision](http://www.invisionapp.com)
+* [Craft - Design with Data for Sketch and Photoshop](http://www.invisionapp.com/craft)
 
 ## Markdown
 * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Miscellaneous
+* [Notejam - Git Repo of different web frameworks](https://github.com/komarserjio/notejam)
