@@ -32,3 +32,6 @@
 
 ## Miscellaneous
 * [Notejam - Git Repo of different web frameworks](https://github.com/komarserjio/notejam)
+
+## Deployment
+* [Blog Post - How to Deploy Software](https://zachholman.com/posts/deploying-software)
