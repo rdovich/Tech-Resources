@@ -26,6 +26,7 @@
 * [Wireframe.cc](https://wireframe.cc)
 * [InVision](http://www.invisionapp.com)
 * [Craft - Design with Data for Sketch and Photoshop](http://www.invisionapp.com/craft)
+* [Dark Patterns](http://darkpatterns.org)
 
 ## Markdown
 * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
