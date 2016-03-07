@@ -28,12 +28,18 @@
 * [Craft - Design with Data for Sketch and Photoshop](http://www.invisionapp.com/craft)
 * [Dark Patterns](http://darkpatterns.org)
 * [Onboarding Lessons](http://www.appcues.com/blog/8-mission-critical-user-onboarding-lessons-from-8-top-product-people)
+* [Prototyping with Marvel and Sketch](https://medium.com/sketch-app-sources/prototyping-with-marvel-and-sketch-part-2-of-2-b78c0e1c2f0#.c557qrqva)
 
 ## Markdown
 * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Miscellaneous
 * [Notejam - Git Repo of different web frameworks](https://github.com/komarserjio/notejam)
+* [CodePad - Share code snippets](https://codepad.co)
 
 ## Deployment
 * [Blog Post - How to Deploy Software](https://zachholman.com/posts/deploying-software)
+
+## Product Management
+* [Product Camp - Austin](http://www.productcampaustin.org/newsite/)
+* [Speed, Accuracy, Quality & Joy](https://medium.com/managing-digital-products/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2#.tywvsdpeu)
