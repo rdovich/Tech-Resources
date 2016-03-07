@@ -27,6 +27,7 @@
 * [InVision](http://www.invisionapp.com)
 * [Craft - Design with Data for Sketch and Photoshop](http://www.invisionapp.com/craft)
 * [Dark Patterns](http://darkpatterns.org)
+* [Onboarding Lessons](http://www.appcues.com/blog/8-mission-critical-user-onboarding-lessons-from-8-top-product-people)
 
 ## Markdown
 * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
