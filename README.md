@@ -36,6 +36,7 @@
 ## Miscellaneous
 * [Notejam - Git Repo of different web frameworks](https://github.com/komarserjio/notejam)
 * [CodePad - Share code snippets](https://codepad.co)
+* [Awesome Cheatsheets - Bunch of Languages](https://github.com/detailyang/awesome-cheatsheet?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
 
 ## Deployment
 * [Blog Post - How to Deploy Software](https://zachholman.com/posts/deploying-software)
