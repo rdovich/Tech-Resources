@@ -44,3 +44,4 @@
 ## Product Management
 * [Product Camp - Austin](http://www.productcampaustin.org/newsite/)
 * [Speed, Accuracy, Quality & Joy](https://medium.com/managing-digital-products/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2#.tywvsdpeu)
+* [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
