@@ -46,3 +46,6 @@
 * [Speed, Accuracy, Quality & Joy](https://medium.com/managing-digital-products/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2#.tywvsdpeu)
 * [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 * [HiPPO](https://www.prodpad.com/2016/03/no-hippo-hijacks-my-product-roadmap/)
+
+## Testing
+* [Giving up on test-first development](http://iansommerville.com/systems-software-and-technology/giving-up-on-test-first-development)
