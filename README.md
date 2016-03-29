@@ -49,3 +49,6 @@
 
 ## Testing
 * [Giving up on test-first development](http://iansommerville.com/systems-software-and-technology/giving-up-on-test-first-development)
+
+## Architecture
+* [Reactive Programming](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc#.p5uofwzgt)
