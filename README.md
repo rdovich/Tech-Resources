@@ -29,6 +29,7 @@
 * [Dark Patterns](http://darkpatterns.org)
 * [Onboarding Lessons](http://www.appcues.com/blog/8-mission-critical-user-onboarding-lessons-from-8-top-product-people)
 * [Prototyping with Marvel and Sketch](https://medium.com/sketch-app-sources/prototyping-with-marvel-and-sketch-part-2-of-2-b78c0e1c2f0#.c557qrqva)
+* [The Only Intuitive Interface Is The Nipple](http://www.greenend.org.uk/rjk/misc/nipple.html)
 
 ## Markdown
 * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -37,15 +38,19 @@
 * [Notejam - Git Repo of different web frameworks](https://github.com/komarserjio/notejam)
 * [CodePad - Share code snippets](https://codepad.co)
 * [Awesome Cheatsheets - Bunch of Languages](https://github.com/detailyang/awesome-cheatsheet?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
+* [Access/Start Servers from your Browser](https://github.com/typicode/hotel)
+* [A little thing about release notes](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d#.8epksk98s)
 
 ## Deployment
 * [Blog Post - How to Deploy Software](https://zachholman.com/posts/deploying-software)
+* [Let's Encrypt - Free, automated, open source certificate authority](https://letsencrypt.org)
 
 ## Product Management
 * [Product Camp - Austin](http://www.productcampaustin.org/newsite/)
 * [Speed, Accuracy, Quality & Joy](https://medium.com/managing-digital-products/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2#.tywvsdpeu)
 * [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 * [HiPPO](https://www.prodpad.com/2016/03/no-hippo-hijacks-my-product-roadmap/)
+* [Microinteractions: 11 compliments to use in your app](https://medium.com/@dancrisan/microinteractions-11-compliments-to-use-in-your-app-587f0ea81e84#.17r1z0148)
 
 ## Testing
 * [Giving up on test-first development](http://iansommerville.com/systems-software-and-technology/giving-up-on-test-first-development)
