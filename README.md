@@ -57,3 +57,6 @@
 
 ## Architecture
 * [Reactive Programming](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc#.p5uofwzgt)
+
+## Java
+* [Useful Java Links](https://github.com/Vedenin/useful-java-links?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
