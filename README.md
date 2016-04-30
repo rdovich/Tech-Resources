@@ -44,6 +44,7 @@
 ## Deployment
 * [Blog Post - How to Deploy Software](https://zachholman.com/posts/deploying-software)
 * [Let's Encrypt - Free, automated, open source certificate authority](https://letsencrypt.org)
+* [Continuous Deployment at Instagram](http://engineering.instagram.com/posts/1125308487520335/continuous-deployment-at-instagram)
 
 ## Product Management
 * [Product Camp - Austin](http://www.productcampaustin.org/newsite/)
@@ -51,6 +52,7 @@
 * [Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 * [HiPPO](https://www.prodpad.com/2016/03/no-hippo-hijacks-my-product-roadmap/)
 * [Microinteractions: 11 compliments to use in your app](https://medium.com/@dancrisan/microinteractions-11-compliments-to-use-in-your-app-587f0ea81e84#.17r1z0148)
+* [Minimum Viable User Onboarding](http://www.appcues.com/blog/minimum-viable-user-onboarding/)
 
 ## Testing
 * [Giving up on test-first development](http://iansommerville.com/systems-software-and-technology/giving-up-on-test-first-development)
@@ -60,3 +62,6 @@
 
 ## Java
 * [Useful Java Links](https://github.com/Vedenin/useful-java-links?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning)
+
+## Competition
+* [Threat Stack](https://www.threatstack.com)
